@@ -5,7 +5,7 @@ $colors: #E89B35 #36CBE9 #A137E7 #E83568;
 body {
   font-family: 'Source Sans Pro', sans-serif;
   font-weight: 300;
-background: linear-gradient(135deg,  #0e7fef 0%,#00a7c9 44%,#00d3a2 100%), linear-gradient(45deg, rgba(242,14,109,1) 0%,rgba(242,14,109,0.93) 7%,rgba(0,211,162,0) 100%);
+background: linear-gradient(135deg,  #deed0ee9 0%,#00a4c9f7 44%,#00d331 100%), linear-gradient(45deg, rgba(242,14,109,1) 0%,rgba(242,14,109,0.93) 7%,rgba(0,211,162,0) 100%);
 }
 
 h1, h2, h3, h4, h5, h6, p {  font-family: inherit; }
